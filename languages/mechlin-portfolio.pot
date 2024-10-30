@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mechlin Portfolio Widgets For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-16 09:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: inc/widgets/mp-portfolio.php:221
+msgid "2 Columns"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:222
+msgid "3 Columns"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:223
+msgid "4 Columns"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:224
+msgid "5 Columns"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:87
+msgid "Add Images"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:453
+msgid "Change the excerpt color which inside the box."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:393
+msgid "Change the excerpt color which outside the box."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:483
+msgid "Change the overlay color which inside the box."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:423
+msgid "Change the title color which inside the box."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:363
+msgid "Change the title color which outside the box."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:168
+msgid "Client"
+msgstr ""
+
+#: inc/class-init.php:50
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:215
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:288
+msgid "Columns Gap"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:144
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:314
+msgid "Data"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:152
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:322
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:389 inc/widgets/mp-portfolio.php:449
+msgid "Excerpt Color"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:405 inc/widgets/mp-portfolio.php:465
+msgid "Excerpt Typography"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:53
+msgid "Featured Image"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:246
+msgid "Featured Image Height"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:267
+msgid "Grid Height"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:479
+msgid "Grid Overlay Color"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:495
+msgid "Grid Overlay Opacity"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:349
+msgid "Grid View"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mechlintech.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.mechlintech.com"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:323
+msgid ""
+"If enable Infinite scroll, you should only add one portfolio widget per page."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:178
+msgid ""
+"If enable this option, it will display 50 words of the content as the "
+"excerpt."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:237
+msgid "Inside The Box"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:194
+msgid "Item #1"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:208
+msgid "Layout"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mechlin"
+msgstr ""
+
+#: inc/class-init.php:140 inc/widgets/mp-portfolio.php:19
+msgid "Mechlin Portfolio"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mechlin Portfolio Widgets For Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Mechmentor Portfolio Addon plugin offers a Portfolio Grid Widget for "
+"Elementor page builder."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:181
+msgid "No"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:336
+msgid "Number Items Per Page"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:236
+msgid "Outside The Box"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:190
+msgid "Portfolio Item"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:35
+msgid "Portfolio Items"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:46
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:160
+msgid "Services"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:177
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:129
+msgid "SoundCloud URL"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:44
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:359 inc/widgets/mp-portfolio.php:419
+msgid "Title Color"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:231
+msgid "Title Position"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:375 inc/widgets/mp-portfolio.php:435
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:64
+msgid "Type"
+msgstr ""
+
+#: inc/class-init.php:57
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:180
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/mp-portfolio.php:114
+msgid "Youtube Video URL"
+msgstr ""
